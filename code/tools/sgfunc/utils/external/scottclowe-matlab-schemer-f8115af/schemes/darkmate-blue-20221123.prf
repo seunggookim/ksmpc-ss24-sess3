@@ -1,0 +1,33 @@
+# darkmate-blue-20221123 - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.13.0.2105380 (R2022b) Update 2
+# Wed Nov 23 15:34:15 CET 2022
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I4
+ColorsText=C-1118482
+ColorsBackground=C-14474461
+Colors_M_Keywords=C-26368
+Colors_M_Comments=C-12409112
+Colors_M_Strings=C-7805691
+Colors_M_UnterminatedStrings=C-2110675
+Colors_M_SystemCommands=C-16725605
+Colors_M_Errors=C-2830136
+Colors_HTML_HTMLLinks=C-6385153
+Colors_M_Warnings=C-26368
+ColorsMLintAutoFixBackground=C-11184811
+Editor.VariableHighlighting.Color=C-4495617
+Editor.NonlocalVariableHighlighting.TextColor=C-16725760
+Editorhighlight-lines=C-15132391
+Editorhighlight-caret-row-boolean-color=C-13684945
+EditorRightTextLimitLineColor=C-15970693
+Color_CmdWinWarnings=C-26368
+Color_CmdWinErrors=C-53398

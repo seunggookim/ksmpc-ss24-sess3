@@ -1,0 +1,33 @@
+# tango-mac - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.12.0.2170939 (R2022a) Update 6
+# Sun Jun 04 16:05:35 CEST 2023
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Bfalse
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-11184301
+ColorsBackground=C-1
+Colors_M_Keywords=C-1031100
+Colors_M_Comments=C-11170877
+Colors_M_Strings=C-4507189
+Colors_M_UnterminatedStrings=C-16777216
+Colors_M_SystemCommands=C-14770793
+Colors_M_Errors=C-2767343
+Colors_HTML_HTMLLinks=C-13343324
+Colors_M_Warnings=C-217282
+ColorsMLintAutoFixBackground=C-1118482
+Editor.VariableHighlighting.Color=C-202417
+Editor.NonlocalVariableHighlighting.TextColor=C-11625978
+Editorhighlight-lines=C-1118484
+Editorhighlight-caret-row-boolean-color=C-2893873
+EditorRightTextLimitLineColor=C-7828859
+Color_CmdWinWarnings=C-3309555
+Color_CmdWinErrors=C-1103575

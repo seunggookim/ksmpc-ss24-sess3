@@ -1,0 +1,33 @@
+# darkmate_sg3 - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.4.0.949201 (R2018a) Update 6
+# Fri Apr 26 10:50:32 EDT 2019
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-1907998
+ColorsBackground=C-15132391
+Colors_M_Keywords=C-20163
+Colors_M_Comments=C-3957018
+Colors_M_Strings=C-6881536
+Colors_M_UnterminatedStrings=C-202417
+Colors_M_SystemCommands=C-16725605
+Colors_M_Errors=C-53398
+Colors_HTML_HTMLLinks=C-6385153
+Colors_M_Warnings=C-26368
+ColorsMLintAutoFixBackground=C-8355712
+Editor.VariableHighlighting.Color=C-4495617
+Editor.NonlocalVariableHighlighting.TextColor=C-16725760
+Editorhighlight-lines=C-13959125
+Editorhighlight-caret-row-boolean-color=C-11513776
+EditorRightTextLimitLineColor=C-11513776
+Color_CmdWinWarnings=C-26368
+Color_CmdWinErrors=C-568446
