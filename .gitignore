@@ -1,11 +1,7 @@
 # Mac .DS_Store
 .DS_Store
 
-# Large files
-data
-data/
-
-# MATLAB
+# MATLAB temp files
 *.m~
 *.asv
 
